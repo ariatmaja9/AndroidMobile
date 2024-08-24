@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".latihan6">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="TUGAS MOBILE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="I Kadek Ari Atmaja"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="2201010161"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" " />
+
+    <Button
+        android:id="@+id/LatihanMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latihan Main" />
+
+    <Button
+        android:id="@+id/Latihan4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LATIHAN 4" />
+
+    <Button
+        android:id="@+id/Latihan5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LATIHAN 5" />
+
+    <Button
+        android:id="@+id/latihan7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latihan 7" />
+
+    <Button
+        android:id="@+id/latihan9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latihan 9" />
+
+</LinearLayout>

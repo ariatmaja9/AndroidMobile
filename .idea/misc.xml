@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/buat.xml" value="0.2985" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/hapus.xml" value="0.2985" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/list.xml" value="0.2985" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/style1.xml" value="0.2985" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/style2.xml" value="0.3105" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/drawable/style3.xml" value="0.3105" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan10a.xml" value="0.33" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan10b.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan10c.xml" value="0.33" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan13a.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan4.xml" value="0.5" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan5.xml" value="0.25" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan6.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7a.xml" value="0.33" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7b.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7c.xml" value="0.5474339035769828" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7d.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7e.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan7f.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_latihan9a.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/LAB F/AndroidStudioProjects/Laatihan_2201010161/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
